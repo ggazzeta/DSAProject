@@ -12,8 +12,8 @@ import pandas as pd
 
 #%% Carregando os datasets
 
-dados_filmes = pd.read_csv('(5.2) Filmes Streaming.csv', sep=',')
-dados_series = pd.read_csv('(5.3) Séries Streaming.csv', sep=',')
+dados_filmes = pd.read_csv('Filmes Streaming.csv', sep=',')
+dados_series = pd.read_csv('Series Streaming.csv', sep=',')
 
 dados_filmes.info()
 dados_series.info()
