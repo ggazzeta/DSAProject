@@ -3,10 +3,6 @@
 # Data Wrangling
 # MBA em Data Science e Analytics USP/ESALQ
 
-# Prof. Dr. Wilson Tarantin Junior
-
-#%% Atividade nº 5 - Datasets de filmes e séries
-
 # Os datasets contêm avaliações de filmes e séries disponíveis em streamings
 # Fonte: https://www.kaggle.com/datasets/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
 
